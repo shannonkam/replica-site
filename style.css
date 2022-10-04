@@ -1,0 +1,25 @@
+.text-orange {
+  background-color: #c64b1a;
+}
+
+.bg-footer {
+  background-color: #eee;
+}
+
+.small-font {
+  font-size: small;
+}
+
+.btn-orange {
+  background-color: #c64b1a;
+  color: white;
+  font-family: sans-serif;
+}
+
+.btn-white {
+  background-color: white;
+}
+
+.large {
+  font-size: 2em;
+}
